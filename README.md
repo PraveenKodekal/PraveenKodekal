@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PraveenKodekal
-- 👀 I’m interested in coding
-- 🌱 I’m currently working as a java developer in chennai
+- 👀 Aspired to code
+- 🌱 java working professional
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me kodekalpraveena@gmail.com
 
